@@ -36,10 +36,7 @@ The major steps involved in the code is data exploration, data cleaning, data de
 Crown Prosecution Services Prinicipal Offense Category dataset was used for this project. The years selected were 2014 and 2018. Files can be found in the Dataset folder given along with project.
 
 ## Contributers
-Tatenda (s4217804)
-Taiwo (s4217912)
-Maral (s4218518)
-Manish (s4212425)
+
 Umair (s4215274)
 
 
